@@ -1,4 +1,4 @@
-Yassal Ahmad
+Hi 👋 My name is Yassal Ahmad
 =============================
 
 Flutter Developer
@@ -8,13 +8,16 @@ A forward-thinking developer building, integrating, testing, and supporting Cros
 
 Some of my applications are:
 
-1.  OCR (Copy text from image)
-2.  Learning(Kids Learning)
-3.  Speech Recognization(Voice to text)
-4.  Smart Dictionary(English Dictionary)
-5.  Identification of Wheat Seed Using Deep Learning(Final Year Project)
-6.  E-Mechanic(Student Final Year Project)
-7.  Online Bus Ticket (Student Final Year Project)
+1.  OCR (Copy text from image) Link:https://play.google.com/store/apps/details?id=com.devslope.imageToText
+2.  Learning(Kids Learning) Link:https://play.google.com/store/apps/details?id=com.devslope.kids_learning_app
+3.  Speech Recognization(Voice to text) Link:https://play.google.com/store/apps/details?id=com.devslope.speechToText
+4.  Smart Dictionary(English Dictionary) Link:https://play.google.com/store/apps/details?id=com.devslope.smartDictionary
+5.  All Network Latest Packages 2022 (Url Launcher,Facebook Ads, Google Ads) Link: https://play.google.com/store/apps/details?id=com.furqanshiekh786.allNetworkLatestPackages2022
+6.  Identification of Wheat Seed Using Deep Learning(Final Year Project)
+7.  E-Mechanic(Student Final Year Project)
+8.  Online Bus Ticket (Student Final Year Project)
+9.  Kiddpedia (Kids Encyclopedia) https://play.google.com/store/apps/details?id=com.mtechsoft.kiddopedia
+10. The Muslim(Divine Path). https://play.google.com/store/apps/details?id=com.app.TheMuslim
 
 
 
@@ -22,7 +25,7 @@ Some of my applications are:
 * 🌍  I'm based in Lahore, Punjab, Pakistan
 * ✉️  You can contact me at [yassal.qureshi@gmail.com](mailto:yassal.qureshi@gmail.com)
 * 🧠  I'm learning Android Native
-* 🤝  I'm open to collaborating on ANdroid Native & Cross Platform Applications
+* 🤝  I'm open to collaborating on Android Native & Cross Platform Applications
 
 <a href="https://www.twitter.com/yassal__" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/yassal__?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
