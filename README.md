@@ -1,4 +1,4 @@
-Hi 👋 My name is Yassal Ahmad
+<!-- Hi 👋 My name is Yassal Ahmad
 =============================
 
 Flutter Developer
@@ -67,3 +67,4 @@ src="https://img.shields.io/twitter/follow/yassal__?logo=twitter&style=for-the-b
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/yassalahmad"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+ -->
